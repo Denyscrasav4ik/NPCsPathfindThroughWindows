@@ -2,7 +2,7 @@
 
 ## 📝 Functionality
 
-Basically, this mod gives allows NPCs to see and go through windows.
+Basically, this mod allows NPCs to see and go through windows.
 
 ## 📜 License
 
